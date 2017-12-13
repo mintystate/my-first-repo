@@ -1,0 +1,11 @@
+commit bb4ed443d7674a1a42376919b7dfe839cb016887
+Author: mintystate <mintystate2012@gmail.com>
+Date:   Wed Dec 13 11:31:50 2017 -0600
+
+    2 new files
+
+commit 3787d7419221b4c4120095e7b8b5f1c24e87fc5d
+Author: mintystate <mintystate2012@gmail.com>
+Date:   Wed Dec 13 11:24:07 2017 -0600
+
+    added readme.txt
